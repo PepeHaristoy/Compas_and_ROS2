@@ -16,6 +16,10 @@ List of equipment and programs that I plan to use:
 - OAK 4 D PRO
 - Raspberry Pi 5 16Gb
 
+## Programs I'm using
+
+-uv for enviroment management 
+
 ## Plan of action
 
 - The first step is to make a plan of action, where we will start trying compas Fab, I have some knowledge of bash, Docker, Conda and Python.
