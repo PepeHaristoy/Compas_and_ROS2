@@ -10,5 +10,18 @@ For sensors I have an OAK 4 D Pro that should have enough computacional power to
 List of equipment and programs that I plan to use:
 
 - LINKSYS - SE3008
-- ABB IRB2600 + IRC5 with 
-- ROS2 
+- ABB IRB2600 + IRC5 with RobotWare 6.08.01
+- ROS2 Jazzy 
+- Docker Desktop
+- OAK 4 D PRO
+- Raspberry Pi 5 16Gb
+
+## Plan of action
+
+- The first step is to make a plan of action, where we will start trying compas Fab, I have some knowledge of bash, Docker, Conda and Python.
+
+- The first step is to make a Docker container where I can install conda and the necesary python dependencies. 
+
+## Concepts to learn
+
+- Whats is a websocket and how do I use it to connect ROS with Rhino.
